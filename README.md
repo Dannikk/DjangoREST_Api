@@ -30,7 +30,7 @@ R -e "shiny::runApp('app/app.R')"
 ## Using example
 Source files of client app you can find [here](https://github.com/Dannikk/R_client/tree/develop)
 
-![example]()
+![example](https://ibb.co/6RNfyfs)
 
 ## Contacts:
 
